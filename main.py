@@ -195,7 +195,7 @@ async def handle_message(message: Message):
     }
 
 WEBHOOK_PATH = "/webhook"
-WEBHOOK_URL = "https://tg-forward-bot.onrender.com/webhook"
+WEBHOOK_URL = "https://tg-forward-bot-rzpj.onrender.com"
 WEBHOOK_SECRET = os.getenv("WEBHOOK_SECRET", "")
 
 async def webhook_handler(request: web.Request):
