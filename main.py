@@ -29,7 +29,7 @@ PAYMENTS_URL = 'https://t.me/otzvipIati'
 REVIEWS_URL = 'https://t.me/otzotzivi'
 HOW_TO_URL = 'https://telegra.ph/Kak-brat-zadanie-06-26'
 
-CLOSE_DELAY = 3 #seconds
+CLOSE_DELAY = 60 #seconds
 SPAM_COOLDOWN = 300 #seconds
 
 last_posts: dict[tuple[int, int], float] = {}
