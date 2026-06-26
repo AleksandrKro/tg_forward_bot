@@ -27,7 +27,7 @@ TARGET_CHAT_ID = -1002290371611
 TECH_SUPPORT_USER_ID = 6834098561
 PAYMENTS_URL = 'https://t.me/otzvipIati'
 REVIEWS_URL = 'https://t.me/otzotzivi'
-HOW_TO_URL = 'https://t.me/otzivi_chok/113/114'
+HOW_TO_URL = 'https://telegra.ph/Kak-brat-zadanie-06-26'
 
 CLOSE_DELAY = 3 #seconds
 SPAM_COOLDOWN = 300 #seconds
